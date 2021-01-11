@@ -21,6 +21,7 @@ public class HelloSpringApp {
 		
 		System.out.println(theCoachTwo.getDaillyWorkOut());
 		
+		
 		//close the context
 		context.close();
 	}
